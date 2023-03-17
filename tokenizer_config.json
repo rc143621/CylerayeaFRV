@@ -10,7 +10,6 @@
   },
   "do_lower_case": true,
   "eos_token": {
-    "__type": "AddedToken",
     "content": "<|endoftext|>",
     "lstrip": false,
     "normalized": true,
@@ -25,7 +24,6 @@
   "tokenizer_class": "CLIPTokenizer",
   "unk_token": {
     "__type": "AddedToken",
-    "content": "<|endoftext|>",
     "lstrip": false,
     "normalized": true,
     "rstrip": false,
